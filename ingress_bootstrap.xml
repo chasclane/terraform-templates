@@ -1,0 +1,1076 @@
+<?xml version="1.0"?>
+<config version="9.1.0" urldb="paloaltonetworks">
+  <mgt-config>
+    <users>
+      <entry name="admin">
+        <phash>$1$clfitlap$SAMFN30S2Y319lnEQ5Kqp0</phash>
+        <permissions>
+          <role-based>
+            <superuser>yes</superuser>
+          </role-based>
+        </permissions>
+        <public-key>c3NoLXJzYSBBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFCQVFDbUxHZTZ4UVNXN2xLKzY2eGNXeW1oT1lod0VmelRQaHVwYTA4VVRFVGRacDJPRHpHWTBSb1VxQ1ZVTUlTR0wxbXBnM1J6akVOYmZCUk00TjdqVnhGWjFTQ2lEdlQ5d3I0TitDYzFuSHFBakpzVXN4eUNnWVN0WU9JdklkLzVDMDF2eCttaS9DdU9sajhRTlNOa3VtZ095WGxwcEM5YThocGtEc05uKzZnemFzTFVRUDZjNEhtcjZaMXYwQzdrdEtzRDZ6ak9MMkFNaDhsMG0yUE9VR01aZmYrK3BpbzFLOTFFMmM2a21jZjFZaFBQSzJjd0p4ZXJVNHVFTGFZYmtRd2hEYmNKeWJJWDJuaWo1ZGhhV3QySXZrZ3A4ZG9pS3RtYTU0ZUlLSjU3N3cwTE12K0hmN05rTVVsanc2SVQvY3Y0amJZK3ZDMktMM05xRExQcEtKZVggYm95ZC1wYWxvLWZ3LWtw</public-key>
+      </entry>
+      <entry name="CLane-Admin">
+        <permissions>
+          <role-based>
+            <superuser>yes</superuser>
+          </role-based>
+        </permissions>
+        <phash>$1$bstxvcct$HhYUlfDyGE8AhpDMAcKX01</phash>
+        <public-key>LS0tLSBCRUdJTiBTU0gyIFBVQkxJQyBLRVkgLS0tLQ0KQ29tbWVudDogInJzYS1rZXktMjAyMDAzMDkiDQpBQUFBQjNOemFDMXljMkVBQUFBQkpRQUFBUUVBaHpFdkIvUWlNVlpwakdCcGNzRmoveTlWNW9hSjcrdHNobU5KDQo1RU9ROE1xSnhqNDNpaVNTcFQ2clJxdXNWNjh2R1FHT1BUa3RDeWo3ZmtKMCt2VWxBTUErTXFBem5FYno0d3hkDQpWMnZjZEZHSkdnOWppMmx3cUVwcDdaYXBaMUp6TDF2VzBnM01ndEpTcVdpRTV3RXYxWW5nQW5zcGpVUEFLTkZwDQpObVdoWFN6YjNwQmhPUWxZWndDRlkyZndLNWFaWXkzdUt4N3JwblBoSVllSGs3dmlaVUFZN0IyeDRtOHFKdjlFDQpJdlFZeThPZHRlMDZOUVdpREdrd2tDaHlXTGlHWjZMVkRYZ1NtMk0wNzcwaTJLYkRJQ3FwT21SN0NhVjQzVFlwDQo0V3RxdzhaVWUvNnRaZDFlYlROZWl0NkpRYzZGaE55YU5saUVBRXYxcmphcDdTRnM0dz09DQotLS0tIEVORCBTU0gyIFBVQkxJQyBLRVkgLS0tLQ0K</public-key>
+      </entry>
+      <entry name="DBeasley-Admin">
+        <permissions>
+          <role-based>
+            <superuser>yes</superuser>
+          </role-based>
+        </permissions>
+        <phash>$1$sjtttyjp$.aMAFt0eUofjhGLBVTAdy/</phash>
+        <public-key>LS0tLSBCRUdJTiBTU0gyIFBVQkxJQyBLRVkgLS0tLQ0KQ29tbWVudDogInJzYS1rZXktMjAyMDAzMDkiDQpBQUFBQjNOemFDMXljMkVBQUFBQkpRQUFBUUVBa1pQcUMxOXo0RHlDQ1M1UGJ1cFZLMnhVcGJsaHhLQXdJOGpRDQozekhudXYzUXpteENnUk1SazR1SkdNMFpDWHJyQmY1OStRMlVJSU8vNDBIS1NwN3d0b0s5L01yU1dQOVNTS3dzDQpRcU9TMVJWTkxzalZUY3BZOEJ5dzRXWTdmVHVDNXZxbzlmM3JENUNIVVU5SUcwNjFsTm1YZFEzK0pXSkVNcklnDQpiM21oK2VHNDFoVVVoUmZSWEFnMEJKMVcraWFrbUFTRkVDY0FwNkRvdEtwYWg0WXlRc1FBcnZLb0hYSnUzVDlhDQpSbEQrNE9QN3Z2c1poNUNqU3lOZ04rZ0hxQ1ZKTnJSd2V1OXNwV21RNUx0ajY3TXN2K1pRcSs2aVNKdHJvNFhwDQo3ZG5zY01mQk5KdEhReDBRSk9qVkI1eGhXd3RidTF4N25xbDVWbjBQTmNlNzRwUDc3UT09DQotLS0tIEVORCBTU0gyIFBVQkxJQyBLRVkgLS0tLQ0K</public-key>
+      </entry>
+      <entry name="NHall-Admin">
+        <permissions>
+          <role-based>
+            <superuser>yes</superuser>
+          </role-based>
+        </permissions>
+        <public-key>LS0tLSBCRUdJTiBTU0gyIFBVQkxJQyBLRVkgLS0tLQ0KQ29tbWVudDogInJzYS1rZXktMjAyMDAzMTYiDQpBQUFBQjNOemFDMXljMkVBQUFBQkpRQUFBUUVBc0hiN0YrUkt5UklzNFdoYlhJT21EVm1QTWh4aVhURzZOakdDDQoraWlxRE9zZXBZeXRITUNsYVRlUDhzcWwxZW43Yy9OOE5ZbG5UVCtRNlM3Q1haa2tlMDdWWUdBR3V4d0RMZnIvDQpuMEdQVGd1U0h6WVVIMzNWNXRqSjV6em1DSGEydVp4ZXZUb0JpNkE5ay9DUlBpTkJxNldITVpVN1Rnd1M2eXZ3DQpLTlQ1S21KQUk0T3o1K2JDa0hCZXYyYzluYmZCcWxyMVRSWTJ0WjRLdEZvcVY3VjVvVUd1eEh5S0tnekxLNSt6DQpuOWR2Nk5ub0NDL05HN0F2TVVUSXRMT1BZZmtmcWFEK0JMZ2JjL1NpTG9ycExIMXc5b1ovaE9tdllvUUNkNEk4DQpzN1liUTh2TU1tR3Z2VTZLZERFT2JudWtJWGlidEpkMTVSdEJpZlBpOEsreE5tOUU5UT09DQotLS0tIEVORCBTU0gyIFBVQkxJQyBLRVkgLS0tLQ0K</public-key>
+        <phash>$1$eupafxjg$kQEGAxDQ89JKuVs2qo1hx0</phash>
+      </entry>
+    </users>
+    <password-complexity>
+      <enabled>yes</enabled>
+      <minimum-length>8</minimum-length>
+    </password-complexity>
+  </mgt-config>
+  <shared>
+    <application/>
+    <application-group/>
+    <service/>
+    <service-group/>
+    <botnet>
+      <configuration>
+        <http>
+          <dynamic-dns>
+            <enabled>yes</enabled>
+            <threshold>5</threshold>
+          </dynamic-dns>
+          <malware-sites>
+            <enabled>yes</enabled>
+            <threshold>5</threshold>
+          </malware-sites>
+          <recent-domains>
+            <enabled>yes</enabled>
+            <threshold>5</threshold>
+          </recent-domains>
+          <ip-domains>
+            <enabled>yes</enabled>
+            <threshold>10</threshold>
+          </ip-domains>
+          <executables-from-unknown-sites>
+            <enabled>yes</enabled>
+            <threshold>5</threshold>
+          </executables-from-unknown-sites>
+        </http>
+        <other-applications>
+          <irc>yes</irc>
+        </other-applications>
+        <unknown-applications>
+          <unknown-tcp>
+            <destinations-per-hour>10</destinations-per-hour>
+            <sessions-per-hour>10</sessions-per-hour>
+            <session-length>
+              <maximum-bytes>100</maximum-bytes>
+              <minimum-bytes>50</minimum-bytes>
+            </session-length>
+          </unknown-tcp>
+          <unknown-udp>
+            <destinations-per-hour>10</destinations-per-hour>
+            <sessions-per-hour>10</sessions-per-hour>
+            <session-length>
+              <maximum-bytes>100</maximum-bytes>
+              <minimum-bytes>50</minimum-bytes>
+            </session-length>
+          </unknown-udp>
+        </unknown-applications>
+      </configuration>
+      <report>
+        <topn>100</topn>
+        <scheduled>yes</scheduled>
+      </report>
+    </botnet>
+    <local-user-database>
+      <user>
+        <entry name="CLane-Admin">
+          <phash>$1$bkpcarwt$MWszXFff3cgsgAbb7NOkA0</phash>
+        </entry>
+      </user>
+      <user-group/>
+    </local-user-database>
+    <content-preview>
+      <application/>
+      <application-type>
+        <category/>
+        <technology/>
+      </application-type>
+    </content-preview>
+    <certificate>
+      <entry name="boyd-ingress-temp-cert">
+        <subject-hash>68867983</subject-hash>
+        <issuer-hash>68867983</issuer-hash>
+        <not-valid-before>Mar 25 14:06:43 2020 GMT</not-valid-before>
+        <issuer>/CN=boyd-ingress</issuer>
+        <not-valid-after>Mar 25 14:06:43 2021 GMT</not-valid-after>
+        <common-name>boyd-ingress</common-name>
+        <expiry-epoch>1616681203</expiry-epoch>
+        <ca>yes</ca>
+        <subject>/CN=boyd-ingress</subject>
+        <public-key>-----BEGIN CERTIFICATE-----
+MIICzjCCAbagAwIBAgIJAIiyMIS5sfCgMA0GCSqGSIb3DQEBCwUAMBcxFTATBgNV
+BAMTDGJveWQtaW5ncmVzczAeFw0yMDAzMjUxNDA2NDNaFw0yMTAzMjUxNDA2NDNa
+MBcxFTATBgNVBAMTDGJveWQtaW5ncmVzczCCASIwDQYJKoZIhvcNAQEBBQADggEP
+ADCCAQoCggEBAOUNxA6CTjdSpwBxWd5idCKYv3SeIAT3Bfi35ZX9br2zW8IJZgaO
+iZHzNoAAc1zjjftUq+dG4Q7VQehrA11lDMPWiePifVxxOaFlaTRSurqWEgvLljAu
+aRAJKAjPeWgQWrvBnSkHPIcPFMLW4zrO8Xogjx2gzaNwp41TOthS4/PCFSj2xhD+
+tHbR2XsI79g5GrfpTLSztRnuIY+3ecl8WBCFK2c6aEiovWpB47cl32hHTjcYwJ3W
+UXN30VinHqordVlqPSPmngTQ1bnRR/S417YTHRPHSJ/KC70wYE+MJq/ZeP53NupM
+i6LJxpS+LQBXeqOYx6pjWAvq5SwDIY/jdZsCAwEAAaMdMBswDAYDVR0TBAUwAwEB
+/zALBgNVHQ8EBAMCAgQwDQYJKoZIhvcNAQELBQADggEBAAYcsaybJoz95F+3fhBZ
+X9U6v6Y8Nuy8Nuqmp+OjpBwkcQahokc6h7D0gHrnV06ALR+Ayh4Td9hLpZT1voF/
+THrdSKmsRA0g7k11/q8+4oYbSRKxD8lwbRIwppOiXIL89juRGU6oSngSOt/rgGyu
+d6k4XcHZVZ6bJNOvRsUs0aG4OTKblN3eMBm/1+H5G4MSLI3X3uWrG68jxvCv57Ei
+dsPYSleYfqf90Q/2kurIYLhmaDZTEHlu9hraHRZXJG+q8vk4yKFc3hzH0kUM2CzS
+1Q0JjuUCNOYu0CbJAf0bgdwmfmGoHXVQheMungAGFAnyunDNS9Z8tD6N6b5VmsVq
+Gg8=
+-----END CERTIFICATE-----
+</public-key>
+        <algorithm>RSA</algorithm>
+        <private-key>-AQ==AkUFqrOeeXLxlb88D5TYS+ZWYnE=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</private-key>
+      </entry>
+    </certificate>
+    <ssl-tls-service-profile>
+      <entry name="Test_Cert_Profile">
+        <protocol-settings>
+          <min-version>tls1-0</min-version>
+          <max-version>max</max-version>
+        </protocol-settings>
+        <certificate>boyd-ingress-temp-cert</certificate>
+      </entry>
+    </ssl-tls-service-profile>
+  </shared>
+  <devices>
+    <entry name="localhost.localdomain">
+      <network>
+        <interface>
+          <ethernet>
+            <entry name="ethernet1/1">
+              <layer3>
+                <ndp-proxy>
+                  <enabled>no</enabled>
+                </ndp-proxy>
+                <lldp>
+                  <enable>no</enable>
+                </lldp>
+                <dhcp-client>
+                  <create-default-route>yes</create-default-route>
+                </dhcp-client>
+              </layer3>
+            </entry>
+            <entry name="ethernet1/2">
+              <layer3>
+                <ndp-proxy>
+                  <enabled>no</enabled>
+                </ndp-proxy>
+                <dhcp-client>
+                  <create-default-route>no</create-default-route>
+                </dhcp-client>
+                <lldp>
+                  <enable>no</enable>
+                </lldp>
+              </layer3>
+            </entry>
+          </ethernet>
+        </interface>
+        <profiles>
+          <monitor-profile>
+            <entry name="default">
+              <interval>3</interval>
+              <threshold>5</threshold>
+              <action>wait-recover</action>
+            </entry>
+          </monitor-profile>
+          <zone-protection-profile>
+            <entry name="Public_Zone_All">
+              <flood>
+                <tcp-syn>
+                  <red>
+                    <alarm-rate>10000</alarm-rate>
+                    <activate-rate>10000</activate-rate>
+                    <maximal-rate>40000</maximal-rate>
+                  </red>
+                  <enable>yes</enable>
+                </tcp-syn>
+                <udp>
+                  <red>
+                    <alarm-rate>10000</alarm-rate>
+                    <activate-rate>10000</activate-rate>
+                    <maximal-rate>40000</maximal-rate>
+                  </red>
+                  <enable>yes</enable>
+                </udp>
+                <icmp>
+                  <red>
+                    <alarm-rate>10000</alarm-rate>
+                    <activate-rate>10000</activate-rate>
+                    <maximal-rate>40000</maximal-rate>
+                  </red>
+                  <enable>yes</enable>
+                </icmp>
+                <icmpv6>
+                  <red>
+                    <alarm-rate>10000</alarm-rate>
+                    <activate-rate>10000</activate-rate>
+                    <maximal-rate>40000</maximal-rate>
+                  </red>
+                  <enable>yes</enable>
+                </icmpv6>
+                <other-ip>
+                  <red>
+                    <alarm-rate>10000</alarm-rate>
+                    <activate-rate>10000</activate-rate>
+                    <maximal-rate>40000</maximal-rate>
+                  </red>
+                  <enable>no</enable>
+                </other-ip>
+              </flood>
+              <ipv6>
+                <ignore-inv-pkt>
+                  <dest-unreach>yes</dest-unreach>
+                  <pkt-too-big>yes</pkt-too-big>
+                  <time-exceeded>yes</time-exceeded>
+                  <param-problem>yes</param-problem>
+                  <redirect>yes</redirect>
+                </ignore-inv-pkt>
+              </ipv6>
+              <scan>
+                <entry name="8001">
+                  <action>
+                    <block/>
+                  </action>
+                  <interval>2</interval>
+                  <threshold>100</threshold>
+                </entry>
+                <entry name="8002">
+                  <action>
+                    <block/>
+                  </action>
+                  <interval>10</interval>
+                  <threshold>100</threshold>
+                </entry>
+                <entry name="8003">
+                  <action>
+                    <block/>
+                  </action>
+                  <interval>2</interval>
+                  <threshold>100</threshold>
+                </entry>
+              </scan>
+              <discard-ip-spoof>yes</discard-ip-spoof>
+              <discard-malformed-option>yes</discard-malformed-option>
+              <discard-icmp-ping-zero-id>yes</discard-icmp-ping-zero-id>
+              <non-ip-protocol>
+                <list-type>exclude</list-type>
+              </non-ip-protocol>
+              <discard-unknown-option>yes</discard-unknown-option>
+            </entry>
+          </zone-protection-profile>
+          <interface-management-profile/>
+        </profiles>
+        <ike>
+          <crypto-profiles>
+            <ike-crypto-profiles>
+              <entry name="default">
+                <encryption>
+                  <member>aes-128-cbc</member>
+                  <member>3des</member>
+                </encryption>
+                <hash>
+                  <member>sha1</member>
+                </hash>
+                <dh-group>
+                  <member>group2</member>
+                </dh-group>
+                <lifetime>
+                  <hours>8</hours>
+                </lifetime>
+              </entry>
+              <entry name="Suite-B-GCM-128">
+                <encryption>
+                  <member>aes-128-cbc</member>
+                </encryption>
+                <hash>
+                  <member>sha256</member>
+                </hash>
+                <dh-group>
+                  <member>group19</member>
+                </dh-group>
+                <lifetime>
+                  <hours>8</hours>
+                </lifetime>
+              </entry>
+              <entry name="Suite-B-GCM-256">
+                <encryption>
+                  <member>aes-256-cbc</member>
+                </encryption>
+                <hash>
+                  <member>sha384</member>
+                </hash>
+                <dh-group>
+                  <member>group20</member>
+                </dh-group>
+                <lifetime>
+                  <hours>8</hours>
+                </lifetime>
+              </entry>
+            </ike-crypto-profiles>
+            <ipsec-crypto-profiles>
+              <entry name="default">
+                <esp>
+                  <encryption>
+                    <member>aes-128-cbc</member>
+                    <member>3des</member>
+                  </encryption>
+                  <authentication>
+                    <member>sha1</member>
+                  </authentication>
+                </esp>
+                <dh-group>group2</dh-group>
+                <lifetime>
+                  <hours>1</hours>
+                </lifetime>
+              </entry>
+              <entry name="Suite-B-GCM-128">
+                <esp>
+                  <encryption>
+                    <member>aes-128-gcm</member>
+                  </encryption>
+                  <authentication>
+                    <member>none</member>
+                  </authentication>
+                </esp>
+                <dh-group>group19</dh-group>
+                <lifetime>
+                  <hours>1</hours>
+                </lifetime>
+              </entry>
+              <entry name="Suite-B-GCM-256">
+                <esp>
+                  <encryption>
+                    <member>aes-256-gcm</member>
+                  </encryption>
+                  <authentication>
+                    <member>none</member>
+                  </authentication>
+                </esp>
+                <dh-group>group20</dh-group>
+                <lifetime>
+                  <hours>1</hours>
+                </lifetime>
+              </entry>
+            </ipsec-crypto-profiles>
+            <global-protect-app-crypto-profiles>
+              <entry name="default">
+                <encryption>
+                  <member>aes-128-cbc</member>
+                </encryption>
+                <authentication>
+                  <member>sha1</member>
+                </authentication>
+              </entry>
+            </global-protect-app-crypto-profiles>
+          </crypto-profiles>
+        </ike>
+        <qos>
+          <profile>
+            <entry name="default">
+              <class-bandwidth-type>
+                <mbps>
+                  <class>
+                    <entry name="class1">
+                      <priority>real-time</priority>
+                    </entry>
+                    <entry name="class2">
+                      <priority>high</priority>
+                    </entry>
+                    <entry name="class3">
+                      <priority>high</priority>
+                    </entry>
+                    <entry name="class4">
+                      <priority>medium</priority>
+                    </entry>
+                    <entry name="class5">
+                      <priority>medium</priority>
+                    </entry>
+                    <entry name="class6">
+                      <priority>low</priority>
+                    </entry>
+                    <entry name="class7">
+                      <priority>low</priority>
+                    </entry>
+                    <entry name="class8">
+                      <priority>low</priority>
+                    </entry>
+                  </class>
+                </mbps>
+              </class-bandwidth-type>
+            </entry>
+          </profile>
+        </qos>
+        <virtual-router>
+          <entry name="default">
+            <protocol>
+              <bgp>
+                <enable>no</enable>
+                <dampening-profile>
+                  <entry name="default">
+                    <cutoff>1.25</cutoff>
+                    <reuse>0.5</reuse>
+                    <max-hold-time>900</max-hold-time>
+                    <decay-half-life-reachable>300</decay-half-life-reachable>
+                    <decay-half-life-unreachable>900</decay-half-life-unreachable>
+                    <enable>yes</enable>
+                  </entry>
+                </dampening-profile>
+                <routing-options>
+                  <graceful-restart>
+                    <enable>yes</enable>
+                  </graceful-restart>
+                </routing-options>
+              </bgp>
+              <rip>
+                <enable>no</enable>
+              </rip>
+              <ospf>
+                <enable>no</enable>
+              </ospf>
+              <ospfv3>
+                <enable>no</enable>
+              </ospfv3>
+            </protocol>
+            <interface>
+              <member>ethernet1/1</member>
+              <member>ethernet1/2</member>
+            </interface>
+            <ecmp>
+              <algorithm>
+                <ip-modulo/>
+              </algorithm>
+              <enable>no</enable>
+            </ecmp>
+            <routing-table>
+              <ip>
+                <static-route>
+                  <entry name="10-82-VPC Route">
+                    <nexthop>
+                      <ip-address>172.26.80.97</ip-address>
+                    </nexthop>
+                    <bfd>
+                      <profile>None</profile>
+                    </bfd>
+                    <path-monitor>
+                      <enable>no</enable>
+                      <failure-condition>any</failure-condition>
+                      <hold-time>2</hold-time>
+                    </path-monitor>
+                    <interface>ethernet1/2</interface>
+                    <metric>10</metric>
+                    <destination>10.82.0.0/15</destination>
+                    <route-table>
+                      <unicast/>
+                    </route-table>
+                  </entry>
+                </static-route>
+              </ip>
+            </routing-table>
+          </entry>
+        </virtual-router>
+      </network>
+      <deviceconfig>
+        <system>
+          <type>
+            <dhcp-client>
+              <send-hostname>yes</send-hostname>
+              <send-client-id>no</send-client-id>
+              <accept-dhcp-hostname>no</accept-dhcp-hostname>
+              <accept-dhcp-domain>no</accept-dhcp-domain>
+            </dhcp-client>
+          </type>
+          <update-server>updates.paloaltonetworks.com</update-server>
+          <update-schedule>
+            <threats>
+              <recurring>
+                <weekly>
+                  <day-of-week>wednesday</day-of-week>
+                  <at>01:02</at>
+                  <action>download-only</action>
+                </weekly>
+              </recurring>
+            </threats>
+          </update-schedule>
+          <timezone>US/Pacific</timezone>
+          <service>
+            <disable-telnet>yes</disable-telnet>
+            <disable-http>yes</disable-http>
+          </service>
+          <hostname>ec2-ingress-vm300-01-aza-1</hostname>
+          <login-banner>AWS AZA-1 - INGRESS</login-banner>
+          <dns-setting>
+            <servers>
+              <primary>169.254.169.253</primary>
+              <secondary>1.1.1.1</secondary>
+            </servers>
+          </dns-setting>
+          <ntp-servers>
+            <primary-ntp-server>
+              <ntp-server-address>0.pool.ntp.org</ntp-server-address>
+              <authentication-type>
+                <none/>
+              </authentication-type>
+            </primary-ntp-server>
+            <secondary-ntp-server>
+              <ntp-server-address>1.pool.ntp.org</ntp-server-address>
+              <authentication-type>
+                <none/>
+              </authentication-type>
+            </secondary-ntp-server>
+          </ntp-servers>
+          <permitted-ip>
+            <entry name="10.66.40.0/24"/>
+            <entry name="64.79.133.0/24"/>
+            <entry name="54.213.94.140/32"/>
+            <entry name="10.128.0.0/9"/>
+          </permitted-ip>
+          <ssl-tls-service-profile>Test_Cert_Profile</ssl-tls-service-profile>
+        </system>
+        <setting>
+          <config>
+            <rematch>yes</rematch>
+          </config>
+          <management>
+            <hostname-type-in-syslog>FQDN</hostname-type-in-syslog>
+            <initcfg>
+              <type>
+                <dhcp-client>
+                  <send-hostname>yes</send-hostname>
+                  <send-client-id>no</send-client-id>
+                  <accept-dhcp-hostname>no</accept-dhcp-hostname>
+                  <accept-dhcp-domain>no</accept-dhcp-domain>
+                </dhcp-client>
+              </type>
+              <public-key>c3NoLXJzYSBBQUFBQjNOemFDMXljMkVBQUFBREFRQUJBQUFCQVFDbUxHZTZ4UVNXN2xLKzY2eGNXeW1oT1lod0VmelRQaHVwYTA4VVRFVGRacDJPRHpHWTBSb1VxQ1ZVTUlTR0wxbXBnM1J6akVOYmZCUk00TjdqVnhGWjFTQ2lEdlQ5d3I0TitDYzFuSHFBakpzVXN4eUNnWVN0WU9JdklkLzVDMDF2eCttaS9DdU9sajhRTlNOa3VtZ095WGxwcEM5YThocGtEc05uKzZnemFzTFVRUDZjNEhtcjZaMXYwQzdrdEtzRDZ6ak9MMkFNaDhsMG0yUE9VR01aZmYrK3BpbzFLOTFFMmM2a21jZjFZaFBQSzJjd0p4ZXJVNHVFTGFZYmtRd2hEYmNKeWJJWDJuaWo1ZGhhV3QySXZrZ3A4ZG9pS3RtYTU0ZUlLSjU3N3cwTE12K0hmN05rTVVsanc2SVQvY3Y0amJZK3ZDMktMM05xRExQcEtKZVggYm95ZC1wYWxvLWZ3LWtw</public-key>
+            </initcfg>
+          </management>
+          <ctd>
+            <x-forwarded-for>yes</x-forwarded-for>
+            <strip-x-fwd-for>yes</strip-x-fwd-for>
+          </ctd>
+        </setting>
+      </deviceconfig>
+      <vsys>
+        <entry name="vsys1">
+          <application/>
+          <application-group>
+            <entry name="Spoke-to-Spoke">
+              <members>
+                <member>icmp</member>
+                <member>ssh</member>
+                <member>traceroute</member>
+                <member>ping</member>
+              </members>
+            </entry>
+            <entry name="Spokes-to-Public">
+              <members>
+                <member>apt-get</member>
+                <member>icmp</member>
+                <member>traceroute</member>
+                <member>ssl</member>
+                <member>web-browsing</member>
+                <member>yum</member>
+                <member>ping</member>
+              </members>
+            </entry>
+            <entry name="Public-to-Spokes">
+              <members>
+                <member>web-browsing</member>
+                <member>ssh</member>
+              </members>
+            </entry>
+          </application-group>
+          <zone>
+            <entry name="Public">
+              <network>
+                <layer3>
+                  <member>ethernet1/1</member>
+                </layer3>
+                <zone-protection-profile>Public_Zone_All</zone-protection-profile>
+              </network>
+            </entry>
+            <entry name="Private">
+              <network>
+                <layer3>
+                  <member>ethernet1/2</member>
+                </layer3>
+              </network>
+            </entry>
+          </zone>
+          <service>
+            <entry name="AWS-Health-Check">
+              <protocol>
+                <tcp>
+                  <port>5555</port>
+                  <override>
+                    <no/>
+                  </override>
+                </tcp>
+              </protocol>
+            </entry>
+            <entry name="Custom-8888-test">
+              <protocol>
+                <tcp>
+                  <port>8888</port>
+                  <override>
+                    <yes/>
+                  </override>
+                </tcp>
+              </protocol>
+            </entry>
+          </service>
+          <service-group/>
+          <schedule/>
+          <rulebase>
+            <nat>
+              <rules>
+                <entry name="InboundWeb" uuid="dfda33c6-9f16-4d77-941c-f6ca723680e2">
+                  <source-translation>
+                    <dynamic-ip-and-port>
+                      <interface-address>
+                        <interface>ethernet1/2</interface>
+                      </interface-address>
+                    </dynamic-ip-and-port>
+                  </source-translation>
+                  <to>
+                    <member>Public</member>
+                  </to>
+                  <from>
+                    <member>Public</member>
+                  </from>
+                  <source>
+                    <member>any</member>
+                  </source>
+                  <destination>
+                    <member>172.26.80.10</member>
+                    <member>172.26.80.138</member>
+                  </destination>
+                  <service>any</service>
+                  <dynamic-destination-translation>
+                    <translated-address>Boyd-Test-WL3-ALB</translated-address>
+                  </dynamic-destination-translation>
+                </entry>
+                <entry name="OutboundNAT" uuid="bd011cb6-2aa4-4540-8b3d-236ffab18818">
+                  <source-translation>
+                    <dynamic-ip-and-port>
+                      <interface-address>
+                        <interface>ethernet1/1</interface>
+                      </interface-address>
+                    </dynamic-ip-and-port>
+                  </source-translation>
+                  <to>
+                    <member>Public</member>
+                  </to>
+                  <from>
+                    <member>Private</member>
+                  </from>
+                  <source>
+                    <member>DEV-WL</member>
+                    <member>DEV-WL-USEast1</member>
+                    <member>DEV-WL-USWest2</member>
+                  </source>
+                  <destination>
+                    <member>any</member>
+                  </destination>
+                  <service>any</service>
+                </entry>
+              </rules>
+            </nat>
+            <security>
+              <rules>
+                <entry name="HealthCheck" uuid="fd935fbf-565d-4bb2-9013-f020c068c683">
+                  <to>
+                    <member>any</member>
+                  </to>
+                  <from>
+                    <member>Public</member>
+                  </from>
+                  <source>
+                    <member>172.26.80.0/24</member>
+                  </source>
+                  <destination>
+                    <member>any</member>
+                  </destination>
+                  <source-user>
+                    <member>any</member>
+                  </source-user>
+                  <category>
+                    <member>any</member>
+                  </category>
+                  <application>
+                    <member>any</member>
+                  </application>
+                  <service>
+                    <member>any</member>
+                  </service>
+                  <hip-profiles>
+                    <member>any</member>
+                  </hip-profiles>
+                  <action>allow</action>
+                  <log-start>yes</log-start>
+                  <rule-type>universal</rule-type>
+                </entry>
+                <entry name="InboundWebTest" uuid="0a803564-54db-46ad-9b8f-3e2edb6150ab">
+                  <to>
+                    <member>Private</member>
+                  </to>
+                  <from>
+                    <member>Public</member>
+                  </from>
+                  <source>
+                    <member>24.234.52.88</member>
+                    <member>172.26.80.0/22</member>
+                  </source>
+                  <destination>
+                    <member>boyd-dev-wl01a-alb</member>
+                    <member>boyd-in-pub-sub-a</member>
+                    <member>boyd-in-pub-sub-b</member>
+                    <member>Boyd-Test-WL3-ALB</member>
+                    <member>DEV-WL-USEast1</member>
+                    <member>DEV-WL-USWest2</member>
+                  </destination>
+                  <source-user>
+                    <member>any</member>
+                  </source-user>
+                  <category>
+                    <member>any</member>
+                  </category>
+                  <application>
+                    <member>Public-to-Spokes</member>
+                  </application>
+                  <service>
+                    <member>any</member>
+                  </service>
+                  <hip-profiles>
+                    <member>any</member>
+                  </hip-profiles>
+                  <action>allow</action>
+                  <log-start>yes</log-start>
+                </entry>
+                <entry name="Deny-Internet-Geo-In" uuid="2f395e7f-6a12-4f2b-bdd5-362b1d8906fb">
+                  <to>
+                    <member>any</member>
+                  </to>
+                  <from>
+                    <member>any</member>
+                  </from>
+                  <source>
+                    <member>US</member>
+                  </source>
+                  <destination>
+                    <member>any</member>
+                  </destination>
+                  <source-user>
+                    <member>any</member>
+                  </source-user>
+                  <category>
+                    <member>any</member>
+                  </category>
+                  <application>
+                    <member>any</member>
+                  </application>
+                  <service>
+                    <member>any</member>
+                  </service>
+                  <hip-profiles>
+                    <member>any</member>
+                  </hip-profiles>
+                  <action>deny</action>
+                  <log-start>yes</log-start>
+                  <log-end>no</log-end>
+                  <negate-source>yes</negate-source>
+                </entry>
+              </rules>
+            </security>
+            <default-security-rules>
+              <rules>
+                <entry name="intrazone-default" uuid="5245afa9-d704-47d2-9867-21f72f240a6c">
+                  <action>allow</action>
+                  <log-start>no</log-start>
+                  <log-end>yes</log-end>
+                </entry>
+                <entry name="interzone-default" uuid="3f000b0a-9090-43c0-9c69-312e146d36dd">
+                  <action>deny</action>
+                  <log-start>yes</log-start>
+                  <log-end>no</log-end>
+                </entry>
+              </rules>
+            </default-security-rules>
+            <pbf>
+              <rules/>
+            </pbf>
+          </rulebase>
+          <import>
+            <network>
+              <interface>
+                <member>ethernet1/1</member>
+                <member>ethernet1/2</member>
+              </interface>
+            </network>
+          </import>
+          <tag>
+            <entry name="DEV"/>
+            <entry name="WL"/>
+            <entry name="AWS"/>
+            <entry name="QA"/>
+            <entry name="UAT"/>
+            <entry name="PROD"/>
+            <entry name="ALB"/>
+          </tag>
+          <address>
+            <entry name="DEV-WL-USWest2">
+              <ip-netmask>10.82.0.0/15</ip-netmask>
+              <tag>
+                <member>DEV</member>
+                <member>WL</member>
+                <member>AWS</member>
+              </tag>
+            </entry>
+            <entry name="DEV-WL-USEast1">
+              <ip-netmask>10.64.64.0/18</ip-netmask>
+              <tag>
+                <member>AWS</member>
+                <member>DEV</member>
+                <member>WL</member>
+              </tag>
+            </entry>
+            <entry name="QA-WL-USWest2">
+              <ip-netmask>10.64.128.0/18</ip-netmask>
+              <tag>
+                <member>QA</member>
+                <member>AWS</member>
+                <member>WL</member>
+              </tag>
+            </entry>
+            <entry name="QA-WL-USEast1">
+              <ip-netmask>10.64.192.0/18</ip-netmask>
+              <tag>
+                <member>AWS</member>
+                <member>QA</member>
+                <member>WL</member>
+              </tag>
+            </entry>
+            <entry name="UAT-WL-USWest2">
+              <ip-netmask>10.65.0.0/18</ip-netmask>
+              <tag>
+                <member>AWS</member>
+                <member>UAT</member>
+                <member>WL</member>
+              </tag>
+            </entry>
+            <entry name="UAT-WL-USEast1">
+              <ip-netmask>10.65.64.0/18</ip-netmask>
+              <tag>
+                <member>UAT</member>
+                <member>AWS</member>
+                <member>WL</member>
+              </tag>
+            </entry>
+            <entry name="PROD-WL-USWest2">
+              <ip-netmask>10.65.128.0/18</ip-netmask>
+              <tag>
+                <member>AWS</member>
+                <member>PROD</member>
+                <member>WL</member>
+              </tag>
+            </entry>
+            <entry name="PROD-WL-USEast1">
+              <ip-netmask>10.65.192.0/18</ip-netmask>
+              <tag>
+                <member>PROD</member>
+                <member>AWS</member>
+                <member>WL</member>
+              </tag>
+            </entry>
+            <entry name="SEC-Tooling">
+              <ip-netmask>10.66.40.0/24</ip-netmask>
+              <tag>
+                <member>AWS</member>
+              </tag>
+            </entry>
+            <entry name="SharedServicesUSWest2">
+              <ip-netmask>10.66.0.0/22</ip-netmask>
+              <tag>
+                <member>AWS</member>
+              </tag>
+            </entry>
+            <entry name="SharedServicesUSEast1">
+              <ip-netmask>10.66.4.0/22</ip-netmask>
+              <tag>
+                <member>AWS</member>
+              </tag>
+            </entry>
+            <entry name="MGMT-Bastions">
+              <ip-netmask>10.66.40.0/25</ip-netmask>
+              <tag>
+                <member>AWS</member>
+              </tag>
+            </entry>
+            <entry name="boyd-dev-wl01a-alb">
+              <fqdn>internal-boyd-dev-wl01a-alb-1956429819.us-west-2.elb.amazonaws.com</fqdn>
+              <tag>
+                <member>AWS</member>
+                <member>WL</member>
+                <member>ALB</member>
+              </tag>
+            </entry>
+            <entry name="boyd-in-pub-sub-a">
+              <ip-netmask>172.26.80.64/27</ip-netmask>
+              <tag>
+                <member>PROD</member>
+                <member>AWS</member>
+              </tag>
+            </entry>
+            <entry name="boyd-in-pub-sub-b">
+              <ip-netmask>172.26.80.192/27</ip-netmask>
+              <tag>
+                <member>AWS</member>
+                <member>PROD</member>
+              </tag>
+            </entry>
+            <entry name="boyd-in-priv-sub-a">
+              <ip-netmask>172.26.80.96/27</ip-netmask>
+              <tag>
+                <member>AWS</member>
+                <member>PROD</member>
+              </tag>
+            </entry>
+            <entry name="boyd-in-priv-sub-b">
+              <ip-netmask>172.26.80.224/27</ip-netmask>
+              <tag>
+                <member>AWS</member>
+                <member>PROD</member>
+              </tag>
+            </entry>
+            <entry name="Route53 Health Checkers">
+              <ip-netmask>15.177.0.0/18</ip-netmask>
+            </entry>
+            <entry name="Test Global Accellerato-to alb">
+              <fqdn>a2892aebe7a438184.awsglobalaccelerator.com</fqdn>
+            </entry>
+            <entry name="Boyd-Test-WL3-ALB">
+              <fqdn>internal-boyd-workload-alb-466416945.us-west-2.elb.amazonaws.com</fqdn>
+            </entry>
+            <entry name="Boyd-Test-WL3-ALB-1">
+              <fqdn>internal-boyd-workload-alb-466416945.us-west-2.elb.amazonaws.com</fqdn>
+            </entry>
+          </address>
+          <address-group>
+            <entry name="DEV-WL">
+              <static>
+                <member>DEV-WL-USEast1</member>
+                <member>DEV-WL-USWest2</member>
+              </static>
+              <tag>
+                <member>DEV</member>
+                <member>WL</member>
+                <member>AWS</member>
+              </tag>
+            </entry>
+            <entry name="QA-WL">
+              <static>
+                <member>QA-WL-USEast1</member>
+                <member>QA-WL-USWest2</member>
+              </static>
+              <tag>
+                <member>AWS</member>
+                <member>QA</member>
+                <member>WL</member>
+              </tag>
+            </entry>
+            <entry name="UAT-WL">
+              <static>
+                <member>UAT-WL-USEast1</member>
+                <member>UAT-WL-USWest2</member>
+              </static>
+              <tag>
+                <member>AWS</member>
+                <member>UAT</member>
+                <member>WL</member>
+              </tag>
+            </entry>
+            <entry name="PROD-WL">
+              <static>
+                <member>PROD-WL-USEast1</member>
+                <member>PROD-WL-USWest2</member>
+              </static>
+              <tag>
+                <member>PROD</member>
+                <member>AWS</member>
+                <member>WL</member>
+              </tag>
+            </entry>
+            <entry name="SharedServicesTooling">
+              <static>
+                <member>SEC-Tooling</member>
+                <member>SharedServicesUSEast1</member>
+                <member>SharedServicesUSWest2</member>
+              </static>
+              <tag>
+                <member>AWS</member>
+              </tag>
+            </entry>
+            <entry name="Mgmt">
+              <static>
+                <member>MGMT-Bastions</member>
+              </static>
+              <tag>
+                <member>AWS</member>
+              </tag>
+            </entry>
+            <entry name="spokes-alb">
+              <static>
+                <member>boyd-dev-wl01a-alb</member>
+                <member>Test Global Accellerato-to alb</member>
+              </static>
+              <tag>
+                <member>ALB</member>
+                <member>WL</member>
+              </tag>
+            </entry>
+          </address-group>
+          <log-settings>
+            <profiles>
+              <entry name="TempLP">
+                <match-list>
+                  <entry name="Temp">
+                    <log-type>traffic</log-type>
+                    <filter>All Logs</filter>
+                    <send-to-panorama>no</send-to-panorama>
+                  </entry>
+                </match-list>
+              </entry>
+            </profiles>
+          </log-settings>
+        </entry>
+      </vsys>
+    </entry>
+  </devices>
+</config>

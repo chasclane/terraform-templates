@@ -10,8 +10,7 @@ Directory Layout
 -----------------
 
 This particular repository has been implemented in order to duplicate the PAN ELB Autoscaling template. Consequently,
-there are terraform files which deploys the networking and the various other entities of the alb template. There is also another directory
-which provides the definition and deployment of the inner firewall template.
+there are terraform files which deploys the networking and the various other entities of the alb template. There is also another directory which provides the definition and deployment of the inner firewall template.
 
 The outer template files are stored in the ```aws/aws_cft``` directory.
 The inner template files are stored int he ```aws_modules_version``` directory.
